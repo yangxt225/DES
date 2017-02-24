@@ -13,8 +13,8 @@ main: $(TARGET)
 $(TARGET): test.o
 	$(CC) -o $(TARGET) test.o -L. -ltripleDes
 
-$(ALIB): des.o
-	$(AR) $(ARFLAGS) $(ALIB) des.o
+$(ALIB): libtripledes.o
+	$(AR) $(ARFLAGS) $(ALIB) libtripledes.o
 
 %.o: %.c
 	$(CC) -c $< $(CLAGS)
