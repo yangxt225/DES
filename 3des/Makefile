@@ -1,4 +1,5 @@
-CC=gcc
+#CC=gcc
+CC=/usr/local/arm/4.3.2/bin/arm-linux-gcc
 CFLAGS=-Wall -O2
 ALIB=libtripleDes.a
 TARGET=maintest

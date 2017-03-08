@@ -1,17 +1,17 @@
 /*
  * =====================================================================================
  *
- *       Filename:  libtripledes.c
+ *       Filename:libtripledes.c
  *
- *    Description:  GuangZhou Metro AFC
+ *    Description:GuangZhou Metro AFC
  *
- *        Version:  1.0
- *        Created:  2007å¹?2æœ?5æ—?09æ—?3åˆ?5ç§?UTC
- *       Revision:  none
- *       Compiler:  gcc
+ *        Version:1.0
+ *        Created:
+ *       Revision:none
+ *       Compiler:gcc
  *
- *         Author:  ZhouJian (), zhoujian@revenco.com
- *        Company:  Goldsign
+ *         Author:ZhouJian (), zhoujian@revenco.com
+ *        Company:Goldsign
  *
  * =====================================================================================
  */
